@@ -207,4 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 unsloth_compiled_cache
-/models
+/models/DeepSeek-R1-Distill-Llama-8B
+/models/DeepSeek-R1-Distill-Llama-8B-fine-tuned
+/models/Mistral-7B-Instruct-v0.2
