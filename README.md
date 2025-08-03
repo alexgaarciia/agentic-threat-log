@@ -53,6 +53,6 @@ Tool invocation is conditional and conversational:
 ## Documentation Index
 These pages provide technical deep-dives into each component of the system:
 - [Agent Design & Behavior](docs/agent_design_and_behavior.md)  
-- [Tools Documentation](docs/tools_overview.md)  
+- [Tools Documentation](docs/tools_documentation.md)  
 - [Models & Inference](docs/models_and_inference.md)  
 - [Deployment Guide](docs/deployment_guide.md)  
