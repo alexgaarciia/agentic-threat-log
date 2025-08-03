@@ -52,14 +52,7 @@ Tool invocation is conditional and conversational:
 
 ## Documentation Index
 These pages provide technical deep-dives into each component of the system:
-- [How the Agent Works]()
-- Few-Shot Prompt Design
-
-Fine-Tuning Methodology
-
-Model Loading and Optimization
-
-Performance and Benchmarks
-
-
-
+- [Agent Design & Behavior](docs/agent_design_and_behavior.md)  
+- [Tools Documentation](docs/tools_overview.md)  
+- [Models & Inference](docs/models_and_inference.md)  
+- [Deployment Guide](docs/deployment_guide.md)  
