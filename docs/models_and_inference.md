@@ -30,4 +30,4 @@ The system uses two local language model, each providing a different classificat
 ## Model Replacement or Update
 
 - To use a new or updated model, simply place it in the appropriate `models/` directory and update the path if needed.
-- Both loaders are compatible with Hugging Face format (local directory with model weights and config).
+- Both model loading functions are compatible with Hugging Face format (local directory with model weights and config).
