@@ -20,16 +20,24 @@ agentic-threat-log/
 │   ├── models/
 │   │   ├── binary_model.py                   # Loader for binary LLM
 │   │   ├── multiclass_model.py               # Loader for multiclass LLM
-|   |   ├── multiclass_model_v2.py            # Loader for fine-tuned multiclass LLM
+│   │   ├── multiclass_model_v2.py            # Loader for fine-tuned multiclass LLM
 │
 ├── models/
-│   ├── huggingface_model_download.py         # Downloads a specified Hugging Face momdel
+│   ├── huggingface_model_download.py         # Downloads a specified Hugging Face model
 │   └── [Model folders]                       # Locally stored models
+│
+├── docs/
+│   ├── agent_design_and_behavior.md          # Agent design & interaction logic
+│   ├── tools_overview.md                     # Tools documentation
+│   ├── models_and_inference.md               # Model loading and inference workflow
+│   └── deployment_guide.md                   # Deployment instructions and environment setup
 │
 ├── images/
 │   └── architecture.png                      # Architecture diagram
 │
-└── README.md
+├── .env.example                              # Example environment variables file
+│
+└── README.md                                 # Project overview and instructions
 ```
 
 ## System Architecture
